@@ -4,18 +4,21 @@
       "id": 1,
       "titulo": "A Estrela Perdida",
       "categoria": "fantasia",
+      "imagem": "https://img.freepik.com/fotos-gratis/vista-aerea-de-uma-floresta-mista-colorida-envolta-em-nevoa-matinal-em-um-belo-dia-de-outono_1153-3995.jpg?semt=ais_incoming&w=740&q=80",
       "conteudo": "Era uma vez, em um céu muito distante, uma pequena estrela que se sentiu sozinha..."
     },
     {
       "id": 2,
       "titulo": "O Segredo do Baú",
       "categoria": "mistério",
+      "imagem": "https://img.freepik.com/fotos-gratis/vista-aerea-de-uma-floresta-mista-colorida-envolta-em-nevoa-matinal-em-um-belo-dia-de-outono_1153-3995.jpg?semt=ais_incoming&w=740&q=80",
       "conteudo": "No sótão da casa abandonada, Maria encontrou um baú antigo..."
     },
     {
       "id": 3,
       "titulo": "Macabéa",
       "categoria": "drama",
+      "imagem": "https://img.freepik.com/fotos-gratis/vista-aerea-de-uma-floresta-mista-colorida-envolta-em-nevoa-matinal-em-um-belo-dia-de-outono_1153-3995.jpg?semt=ais_incoming&w=740&q=80",
       "conteudo": "Macabéa era uma moça nordestina que vivia no Rio de Janeiro, datilógrafa que não sabia datilografar..."
     }
   ]
