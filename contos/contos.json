@@ -11,6 +11,12 @@
       "titulo": "O Segredo do Baú",
       "categoria": "mistério",
       "conteudo": "No sótão da casa abandonada, Maria encontrou um baú antigo..."
+    },
+    {
+      "id": 3,
+      "titulo": "Macabéa",
+      "categoria": "drama",
+      "conteudo": "Macabéa era uma moça nordestina que vivia no Rio de Janeiro, datilógrafa que não sabia datilografar..."
     }
   ]
 }
