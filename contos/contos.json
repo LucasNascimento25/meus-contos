@@ -1,0 +1,16 @@
+{
+  "contos": [
+    {
+      "id": 1,
+      "titulo": "A Estrela Perdida",
+      "categoria": "fantasia",
+      "conteudo": "Era uma vez, em um céu muito distante, uma pequena estrela que se sentiu sozinha..."
+    },
+    {
+      "id": 2,
+      "titulo": "O Segredo do Baú",
+      "categoria": "mistério",
+      "conteudo": "No sótão da casa abandonada, Maria encontrou um baú antigo..."
+    }
+  ]
+}
